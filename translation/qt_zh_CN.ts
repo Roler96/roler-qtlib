@@ -1023,7 +1023,7 @@ to
     <message>
         <location line="+1"/>
         <source>A&amp;lpha channel:</source>
-        <translation>Alpha通道(&amp;A)：</translation>
+        <translation>透明度(&amp;A)：</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -1048,6 +1048,10 @@ to
     <message>
         <source>Select color</source>
         <translation type="obsolete">选择颜色</translation>
+    </message>
+    <message>
+        <source>Pick Screen Color</source>
+        <translation>选取屏幕颜色</translation>
     </message>
 </context>
 <context>
